@@ -22,6 +22,8 @@ Se configura Web2 para que todas las búsquedas a www.web2.org se redirijan auto
 <br>
 Se soluciona un fallo de sintaxis que aparecía al ejecutar "nginx -t". Se crean las rutas para los logs de errores y se configura la web1 para enviar accesos fallidos hacia donde queremos, pero no se logra llevar a cabo.
 <br>
+<img width="580" height="39" alt="image" src="https://github.com/user-attachments/assets/b21ced1e-6f75-4ca3-aed8-5595fb3282e2" />
+<br>
 <img width="1284" height="139" alt="image" src="https://github.com/user-attachments/assets/aef73dcf-c3ae-4c2d-a0f1-f0451744cebb" />
 
 
